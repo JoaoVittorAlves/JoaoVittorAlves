@@ -4,12 +4,6 @@
 💻 Experiência com **Java, C e Python**  
 📊 Interesse em **Ciência de Dados e Desenvolvimento de Software** 
 
----
-
-## O que estou aprendendo
-- **Cibersegurança**  
-- Desenvolvimento de APIs REST com **Spring Boot + Java 21**  
-- Projetos de **Ciência de Dados** aplicados à saúde  
 
 ---
 
