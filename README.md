@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Vittor  
+# 👋 Olá, eu sou João Vittor Alves
 
 🎓 Estudante de **Ciência da Computação (5º período)**  
 💻 Experiência com **Java, C e Python**  
