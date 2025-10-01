@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação (5º período)**  
 💻 Experiência com **Java, C e Python**  
-📊 Interesse em **Ciência de Dados, Desenvolvimento de Software e Arquitetura de Computadores** 
+📊 Interesse em **Ciência de Dados e Desenvolvimento de Software** 
 
 ---
 
@@ -13,9 +13,9 @@
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### 💻 Linguagens
+### Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
