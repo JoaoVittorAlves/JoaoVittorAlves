@@ -29,10 +29,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVittorAlves&layout=compact&theme=tokyonight)  
 
 ---
-
-## Objetivos
-- Criar projetos práticos que unam **Ciência de Dados, Backend e Segurança**  
-- Participar de projetos colaborativos para ganhar experiência  
-- Conquistar estágio na área de **Desenvolvimento de Software, Dados**  
-
----
