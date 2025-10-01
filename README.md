@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Vittor Alves
 
-🎓 Estudante de **Ciência da Computação (5º período)**  
+🎓 Estudante de **Ciência da Computação**  
 💻 Experiência com **Java, C e Python**  
 📊 Interesse em **Ciência de Dados e Desenvolvimento de Software** 
 
